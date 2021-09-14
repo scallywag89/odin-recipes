@@ -1,0 +1,25 @@
+* {
+    font-family: Urbanist;
+}
+
+
+
+h1 {
+    text-align: center;
+}
+
+.img-container {
+    display: flex;
+    justify-content: center;
+}
+
+.contents {
+    list-style-type: none;
+    text-align: center;
+    display: block;
+}
+
+ul li {
+    display: inline-block;
+    padding: 20px;
+}

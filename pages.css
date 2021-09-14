@@ -1,0 +1,32 @@
+* {
+    font-family: Urbanist;
+
+}
+
+h1, h3, h4, p {
+    text-align: center;
+    font-style: italic;
+}
+
+.img-container {
+    display: flex;
+    justify-content: center;
+}
+
+.text-container {
+    display: flex;
+    justify-content: center;
+}
+.text-inner {
+    max-width: 760px;
+}
+
+.steps {
+    padding: 10px;  
+}
+
+.footer {
+    display: flex;
+    justify-content: center;
+    padding: 45px;
+}
